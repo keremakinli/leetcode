@@ -1,2 +1,2 @@
 # leetcode
-Some of my solutions that I submitted on /leetcode.com/.
+Some of my accepted solutions that I wrote on /leetcode.com/.
